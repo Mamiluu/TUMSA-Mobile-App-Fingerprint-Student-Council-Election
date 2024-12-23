@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "665341976469",
+    "project_id": "tumsa-f",
+    "storage_bucket": "tumsa-f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665341976469:android:463908dafa2125edc9209c",
+        "android_client_info": {
+          "package_name": "com.tumsaf.client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzjg5olwL_dTfkKnuOksZ3reiZpS7QFYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
